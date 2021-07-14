@@ -1,2 +1,2 @@
 # reverse_shell
-you can find any reverse shell code here
+you can find some usefull reverse shell code here
